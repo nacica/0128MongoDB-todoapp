@@ -1,0 +1,11 @@
+{
+    "routes": {
+      "/api/v1/tasks": {
+        "methods": ["GET", "POST"]
+      },
+      "/api/v1/tasks/:id": {
+        "methods": ["GET", "PATCH", "DELETE"]
+      }
+    }
+  }
+  
