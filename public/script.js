@@ -4,7 +4,7 @@ const taskInputDOM = document.querySelector(".task-input");
 const formAlertDOM = document.querySelector(".form-alert");
 
 
-console.log(axios);
+// console.log(axios);
 
 
 // // /api/v1/tasksからタスクを読み込む
