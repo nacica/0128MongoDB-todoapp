@@ -1,4 +1,4 @@
-import axios from 'axios';git
+import axios from 'axios';
 
 const taskIDDOM = document.querySelector(".task-edit-id");
 const taskNameDOM = document.querySelector(".task-edit-name");
